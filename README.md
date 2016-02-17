@@ -1,5 +1,7 @@
 ## Agenda
-- Phone bridge is 646 568 7788 / ID (via email/facebook)
+
+- All the details - https://github.com/pascalandy/meeting/blob/master/README.md
+- Phone bridge is 646 568 7788 / ID 956-624-9881
 - This meeting will last (60 min)
 - How much time each persons will have (5 min)
 - Define who is the time keeper for this session: Juan 
@@ -7,25 +9,25 @@
 
 ## Pairing match:
 
-F Juan Acmou
-B Jill Murwin
-G Luz Gonzalez
-D Laura Raynak
-E Denis Côté
-H Sarah Martin
-C Melissa Murphy
-A Pascal Andy
+- F Juan Acmou
+- B Jill Murwin
+- G Luz Gonzalez
+- D Laura Raynak
+- E Denis Côté
+- H Sarah Martin
+- C Melissa Murphy
+- A Pascal Andy
 
 ## Team:
 
-A Pascal Andy
-B Jill Murwin
-C Melissa Murphy
-D Laura Raynak
-E Denis Côté
-F Juan Acmou
-G Luz Gonzalez
-H Sarah Martin
+- A Pascal Andy
+- B Jill Murwin
+- C Melissa Murphy
+- D Laura Raynak
+- E Denis Côté
+- F Juan Acmou
+- G Luz Gonzalez
+- H Sarah Martin
 
 ## Regular question for our meeting
 
@@ -63,6 +65,9 @@ The **Interviewer/Pairing match** will ask these questions.
 When we listen to the advice of other smart people, who want to help you, you will be at an economic advantage.
 
 ## My 3 conditions to invest energy in this master mind
-A) Be surrounded by people in different industries.
-B) Attend the Master Mind Group every 1 or 2 weeks.
-C) Meet once a year in person and celebrate our dedication.
+1. Be surrounded by people in different industries.
+2. Attend the Master Mind Group every 1 or 2 weeks.
+3. Meet once a year in person and celebrate our dedication.
+
+Cheers!
+Pascal
