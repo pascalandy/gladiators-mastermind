@@ -1,10 +1,10 @@
-## Agenda
+## The Gladiator's Mastermind - Meeting #02
 
-### Meeting number: **02**
+**Agenda**
 
-- Time keeper for this session: [**Juan**]
-- Host for our next meeting: [**Laura**]
-- Next meeting: **March 1st** 8h30PM EST
+- Time keeper: **Juan**
+- Host for our next meeting: **Laura**
+- Next meeting date: **March 1st** 8h30PM EST
 - This meeting will last: **60 min**
 - How much time per person: **5 min**
 - Phone bridge is 646-568-7788 / ID 956-624-9881
@@ -21,7 +21,7 @@
 - *G Luz Gonzalez*
 - *H Sarah Martin*
 
-## Pairing match for today:
+## Pairing match for today (changing everyweek):
 
 - F Juan Camou
 - B Jill Murwin
@@ -32,13 +32,11 @@
 - C Melissa Murphy
 - A Pascal Andy
 
-Generated via randomizelist.com **How it works?**: First person interview the 2nd person. Then the 2nd person interviews the 3td person and so on :)
+Use randomizelist.com and update the result on this page. **How it works?**: The first person, the *interviewer*, ask questions to the second person. Then, the second person become the *interviewer* and ask questions to the 3td person. You get the picture.
 
-## Regular question for our meeting
+## Core questions
 
-The «interviewer» ask these questions:
-
-Quickly in **30 seconds**:
+In **30 seconds**:
 
 1. **What Are You Working On**? 
 2. **What Did You Learn at/since our last meeting**?
@@ -46,12 +44,14 @@ Quickly in **30 seconds**:
 
 In **4 minutes**:
 
-**What Do You Need Help With**? By having a specific question on the agenda, this helps take pressure of members who want to reach out to the group for help.
+- **What Do You Need Help With**? By having a specific question on the agenda, this helps take pressure of members who want to reach out to the group for help.
 
 **Random Topics**
 
-1. Opportunity for the group.
-2. #
+- Opportunity for the group.
+- #
+
+---
 
 ### First meeting questions
 
