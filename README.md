@@ -46,7 +46,7 @@ In **4 minutes**:
 
   **What Do You Need Help With**?
 
-**Random Topics**:
+### Random Topics
   
   - Opportunity for the group.
   - #
@@ -71,15 +71,15 @@ In **4 minutes**:
 - Yearly meeting
 - Share question via email (PM)
 
-### My 3 conditions to invest energy in this mastermind
+### Three conditions to invest energy in this mastermind
+
 1. Be surrounded by people in different industries.
 2. Attend the Master Mind Group every 1 or 2 weeks.
 3. Meet once a year in person and celebrate our dedication.
 
 #### What is a Master Mind Group?
-It’s the coordination of knowledge and effort of two or more people, who work toward a definite purpose, in the spirit of harmony.
 
-« When we listen to the advice of other smart people, who want to help you, you will be at an economic advantage. »
+It’s the coordination of knowledge and effort of two or more people, who work toward a definite purpose, in the spirit of harmony. « When we listen to the advice of other smart people, who want to help you, you will be at an economic advantage. »
 
 Cheers!
 Pascal
