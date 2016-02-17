@@ -7,7 +7,7 @@
 - Next meeting: **March 1st** 8h30PM EST
 - This meeting will last: **60 min**
 - How much time per person: **5 min**
-- Phone bridge is 646 568 7788 / ID 956-624-9881
+- Phone bridge is 646-568-7788 / ID 956-624-9881
 - https://github.com/pascalandy/meeting/blob/master/README.md
 
 ## Team:
