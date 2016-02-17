@@ -32,7 +32,7 @@
 - C Melissa Murphy
 - A Pascal Andy
 
-Use randomizelist.com and update the result on this page. **How it works?**: The first person, the *interviewer*, ask questions to the second person. Then, the second person become the *interviewer* and ask questions to the 3td person. You get the picture.
+To generate a new pairing match, use [randomizelist.com](randomizelist.com) and update the result on this page. **How it works?**: The first person, the *interviewer*, ask questions to the second person. Then, the second person become the *interviewer* and ask questions to the 3td person. You get the picture.
 
 ### Core questions
 
