@@ -32,7 +32,7 @@
 - C Melissa Murphy
 - A Pascal Andy
 
-Generated via randomizelist.com **How it works?**: First person interview the 2nd person. Then the 2nd person interviews the 3td person, etc.
+Generated via randomizelist.com **How it works?**: First person interview the 2nd person. Then the 2nd person interviews the 3td person and so on :)
 
 ## Regular question for our meeting
 
