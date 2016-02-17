@@ -10,6 +10,7 @@ https://github.com/pascalandy/meeting/blob/master/README.md
 - This meeting will last (60 min)
 - How much time each persons will have (5 min)
 - Pairing match via randomizelist.com
+- Next meeting: March 1st 8h30PM EST
 
 ## Pairing match:
 
