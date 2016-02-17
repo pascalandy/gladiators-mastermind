@@ -1,6 +1,6 @@
 ## The Gladiator's Mastermind - Meeting #02
 
-**Agenda**
+### Agenda
 
 - Time keeper: **Juan**
 - Host for our next meeting: **Laura**
