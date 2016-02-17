@@ -1,5 +1,5 @@
 ## Agenda
-- Phone bridge is 646 568 7788 / ID (via email/facebook 956-624-9881)
+- Phone bridge is 646 568 7788 / ID (via email/facebook)
 - This meeting will last (60 min)
 - How much time each persons will have (5 min)
 - Define who is the time keeper for this session: Juan 
