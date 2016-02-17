@@ -77,7 +77,7 @@ In **4 minutes**:
 2. Attend the Master Mind Group every 1 or 2 weeks.
 3. Meet once a year in person and celebrate our dedication.
 
-#### What is a Master Mind Group?
+### What is a Master Mind Group?
 
 It’s the coordination of knowledge and effort of two or more people, who work toward a definite purpose, in the spirit of harmony. « When we listen to the advice of other smart people, who want to help you, you will be at an economic advantage. »
 
