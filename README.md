@@ -32,17 +32,23 @@
 - C Melissa Murphy
 - A Pascal Andy
 
-Done via via randomizelist.com **The flow**: First person interview the 2nd person. Then the 2nd person interviews the 3td person, etc. 
+Generated via randomizelist.com **How it works?**: First person interview the 2nd person. Then the 2nd person interviews the 3td person, etc.
+
 ## Regular question for our meeting
 
 The «interviewer» ask these questions:
 
-1. **What Are You Working On**? Nice and broad, and each member can answer with whatever they feel comfortable sharing.
-2. **What Did You Learn at/since our last meeting**? Very often my groups are focused on similar goals, and lessons learnt by one member benefit all of us.
-3. **What action/result are your proud of**?
-4. **What Do You Need Help With**? By having a specific question on the agenda, this helps take pressure of members who want to reach out to the group for help.
+**30 seconds**:
 
-**Optional**
+1. **What Are You Working On**? 
+2. **What Did You Learn at/since our last meeting**?
+3. **What action/result are your proud of**?
+
+**4 minutes**:
+
+**What Do You Need Help With**? By having a specific question on the agenda, this helps take pressure of members who want to reach out to the group for help.
+
+**Random Topics**
 
 1. Opportunity for the group.
 2. #
@@ -55,11 +61,11 @@ The «interviewer» ask these questions:
 - Why do you want to join a mastermind group?
 
 ## Our commitment as a group
-- every 2 weeks
-- replacement if you have to leave
+- Every 2 weeks
+- Replacement if you have to leave
 - Lucky 7
 - Yearly meeting
-- share question via email (PM)
+- Share question via email (PM)
 
 ## Values
 - Let be brutally honest with each other, live with the tension
