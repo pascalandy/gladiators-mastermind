@@ -3,11 +3,12 @@
 Our page :)<br>
 https://github.com/pascalandy/meeting/blob/master/README.md
 
+- Meeting number: 02
 - Phone bridge is 646 568 7788 / ID 956-624-9881
-- Define who is the time keeper for this session: To Define 
+- Host for our next meeting: Laura
+- Time keeper for this session: To Define
 - This meeting will last (60 min)
 - How much time each persons will have (5 min)
-
 - Pairing match via randomizelist.com
 
 ## Pairing match:
