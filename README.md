@@ -46,17 +46,17 @@ In **4 minutes**:
 
   **What Do You Need Help With**?
 
-  Random Topics:
+**Random Topics**:
   
   - Opportunity for the group.
   - #
 
-  First meeting questions:
+**First meeting questions**:
   
-  - What do you do?
-  - Why?
-  - Which field(s) are you looking for help and support
-  - Why do you want to join a mastermind group?
+- What do you do?
+- Why?
+- Which field(s) are you looking for help and support
+- Why do you want to join a mastermind group?
 
 ### Values
 
