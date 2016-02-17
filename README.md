@@ -38,17 +38,17 @@ https://github.com/pascalandy/meeting/blob/master/README.md
 
 The **Interviewer/Pairing match** will ask these questions.
 
-1) **What Are You Working On**?<br>
-- Nice and broad, and each member can answer with whatever they feel comfortable sharing.<br>
-2) **What Did You Learn at/since xyz**?<br>
-- Very often my groups are focused on similar goals, and lessons learnt by one member benefit all of us.<br>
-3) What action/result are your proud of?<br>
-4) **What Do You Need Help With**?<br>
-By having a specific question on the agenda, this helps take pressure of members who want to reach out to the group for help.
+The **Interviewer/Pairing match** will ask these questions.
+
+1. **What Are You Working On**? Nice and broad, and each member can answer with whatever they feel comfortable sharing.
+2. **What Did You Learn at/since xyz**? Very often my groups are focused on similar goals, and lessons learnt by one member benefit all of us.
+3. What action/result are your proud of?
+4. **What Do You Need Help With**? By having a specific question on the agenda, this helps take pressure of members who want to reach out to the group for help.
 
 **Optional**
 
-- Opportunity for the group.
+1. Opportunity for the group.
+2. #
 
 ### First meeting questions
 
