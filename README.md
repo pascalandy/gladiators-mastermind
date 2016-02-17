@@ -51,8 +51,6 @@ In **4 minutes**:
 - Opportunity for the group.
 - #
 
----
-
 ### First meeting questions
 
 - What do you do?
