@@ -34,6 +34,8 @@ https://github.com/pascalandy/meeting/blob/master/README.md
 - C Melissa Murphy
 - A Pascal Andy
 
+**The flow**: First person interview the 2nd person. Then the 2nd person interviews the 3td person, etc. 
+
 ## Regular question for our meeting
 
 The «interviewer» ask these questions:
