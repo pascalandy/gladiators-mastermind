@@ -1,16 +1,14 @@
 ## Agenda
 
-Our page :)<br>
-https://github.com/pascalandy/meeting/blob/master/README.md
+### Meeting number: **02**
 
-- Meeting number: 02
+- Time keeper for this session: [**Juan**]
+- Host for our next meeting: [**Laura**]
+- Next meeting: **March 1st** 8h30PM EST
+- This meeting will last: **60 min**
+- How much time per person: **5 min**
 - Phone bridge is 646 568 7788 / ID 956-624-9881
-- Host for our next meeting: Laura
-- Time keeper for this session: Juan
-- This meeting will last (60 min)
-- How much time each persons will have (5 min)
-- Pairing match via randomizelist.com
-- Next meeting: March 1st 8h30PM EST
+- https://github.com/pascalandy/meeting/blob/master/README.md
 
 ## Team:
 
@@ -34,8 +32,7 @@ https://github.com/pascalandy/meeting/blob/master/README.md
 - C Melissa Murphy
 - A Pascal Andy
 
-**The flow**: First person interview the 2nd person. Then the 2nd person interviews the 3td person, etc. 
-
+Done via via randomizelist.com **The flow**: First person interview the 2nd person. Then the 2nd person interviews the 3td person, etc. 
 ## Regular question for our meeting
 
 The «interviewer» ask these questions:
