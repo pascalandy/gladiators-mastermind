@@ -38,8 +38,6 @@ https://github.com/pascalandy/meeting/blob/master/README.md
 
 The **Interviewer/Pairing match** will ask these questions.
 
-The **Interviewer/Pairing match** will ask these questions.
-
 1. **What Are You Working On**? Nice and broad, and each member can answer with whatever they feel comfortable sharing.
 2. **What Did You Learn at/since xyz**? Very often my groups are focused on similar goals, and lessons learnt by one member benefit all of us.
 3. What action/result are your proud of?
