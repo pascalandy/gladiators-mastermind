@@ -1,6 +1,7 @@
 ## Agenda
 
-- All the details - https://github.com/pascalandy/meeting/blob/master/README.md
+Our page :)<br>
+https://github.com/pascalandy/meeting/blob/master/README.md
 
 - Phone bridge is 646 568 7788 / ID 956-624-9881
 - Define who is the time keeper for this session: To Define 
