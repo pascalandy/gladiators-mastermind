@@ -11,7 +11,7 @@
 
 ## Pairing match:
 
-- F Juan Acmou
+- F Juan Camou
 - B Jill Murwin
 - G Luz Gonzalez
 - D Laura Raynak
@@ -27,7 +27,7 @@
 - C Melissa Murphy
 - D Laura Raynak
 - E Denis Côté
-- F Juan Acmou
+- F Juan Camou
 - G Luz Gonzalez
 - H Sarah Martin
 
