@@ -38,13 +38,13 @@ Generated via randomizelist.com **How it works?**: First person interview the 2n
 
 The «interviewer» ask these questions:
 
-**30 seconds**:
+Quickly in **30 seconds**:
 
 1. **What Are You Working On**? 
 2. **What Did You Learn at/since our last meeting**?
 3. **What action/result are your proud of**?
 
-**4 minutes**:
+In **4 minutes**:
 
 **What Do You Need Help With**? By having a specific question on the agenda, this helps take pressure of members who want to reach out to the group for help.
 
