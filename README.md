@@ -12,27 +12,27 @@ https://github.com/pascalandy/meeting/blob/master/README.md
 - Pairing match via randomizelist.com
 - Next meeting: March 1st 8h30PM EST
 
-## Pairing match:
-
-- F Juan Camou
-- B Jill Murwin
-- G Luz Gonzalez
-- D Laura Raynak
-- E Denis Côté
-- H Sarah Martin
-- C Melissa Murphy
-- A Pascal Andy
-
 ## Team:
 
-- A Pascal Andy
+- *A Pascal Andy*
+- *B Jill Murwin*
+- *C Melissa Murphy*
+- *D Laura Raynak*
+- *E Denis Côté*
+- *F Juan Camou*
+- *G Luz Gonzalez*
+- *H Sarah Martin*
+
+## Pairing match for today:
+
+- F Juan Camou
 - B Jill Murwin
-- C Melissa Murphy
+- G Luz Gonzalez
 - D Laura Raynak
 - E Denis Côté
-- F Juan Camou
-- G Luz Gonzalez
 - H Sarah Martin
+- C Melissa Murphy
+- A Pascal Andy
 
 ## Regular question for our meeting
 
