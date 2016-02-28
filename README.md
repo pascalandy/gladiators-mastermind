@@ -81,5 +81,6 @@ In **4 minutes**:
 
 It’s the coordination of knowledge and effort of two or more people, who work toward a definite purpose, in the spirit of harmony. « When we listen to the advice of other smart people, who want to help you, you will be at an economic advantage. »
 
-Cheers!
 Pascal
+
+2016-02-28 oihewdqwpdoj
