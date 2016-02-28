@@ -83,5 +83,3 @@ It’s the coordination of knowledge and effort of two or more people, who work 
 
 Cheers!
 Pascal
-
-THis is an example of something I just added for Dom. 
