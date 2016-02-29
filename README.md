@@ -1,4 +1,50 @@
-## The Gladiator's Mastermind - Meeting #02
+## The Gladiator's Mastermind - Meeting #03 The Gladiator's Mastermind - 
+Agenda
+
+    Time keeper: Juan
+    Host for our next meeting: 
+    Next meeting date: March 1st 8h30PM EST
+    This meeting will last: 60 min
+    How much time per person: 5 min
+    Phone bridge is 646-568-7788 / ID 956-624-9881
+    https://github.com/pascalandy/meeting/blob/master/README.md
+
+Team:
+
+    A Pascal Andy
+    B Jill Murwin
+    C Melissa Murphy
+    D Laura Raynak
+    E Denis Côté
+    F Juan Camou
+    G Luz Gonzalez
+    H Sarah Martin
+
+Pairing match for today (changing everyweek):
+
+    E Denis Côté
+    A Pascal Andy
+    G Luz Gonzalez
+    D Laura Raynak
+    F Juan Camou
+    H Sarah Martin
+    C Melissa Murphy
+    B Jill Murwin
+    
+
+To generate a new pairing match, use randomizelist.com and update the result on this page. How it works?: The first person, the interviewer, ask questions to the second person. Then, the second person become the interviewer and ask questions to the 3td person. You get the picture.
+Core questions
+
+A quick update in 30 seconds:
+
+    What are you working on?
+    What did you learn since our last meeting?
+    What are your proud of since our last meeting?
+
+In 4 minutes:
+
+    What Do You Need Help With?
+
 
 ### Agenda
 
