@@ -1,4 +1,4 @@
-## The Gladiator's Mastermind - Meeting #03 The Gladiator's Mastermind - 
+## Meeting #03 The Gladiator's Mastermind - 
 Agenda
 
     Time keeper: Juan
@@ -45,64 +45,7 @@ In 4 minutes:
 
     What Do You Need Help With?
 
-
-### Agenda
-
-- Time keeper: **Juan**
-- Host for our next meeting: **Laura**
-- Next meeting date: **March 1st** 8h30PM EST
-- This meeting will last: **60 min**
-- How much time per person: **5 min**
-- Phone bridge is 646-568-7788 / ID 956-624-9881
-- https://github.com/pascalandy/meeting/blob/master/README.md
-
-### Team:
-
-- *A Pascal Andy*
-- *B Jill Murwin*
-- *C Melissa Murphy*
-- *D Laura Raynak*
-- *E Denis Côté*
-- *F Juan Camou*
-- *G Luz Gonzalez*
-- *H Sarah Martin*
-
-### Pairing match for today (changing everyweek):
-
-- F Juan Camou
-- B Jill Murwin
-- G Luz Gonzalez
-- D Laura Raynak
-- E Denis Côté
-- H Sarah Martin
-- C Melissa Murphy
-- A Pascal Andy
-
-To generate a new pairing match, use [randomizelist.com](randomizelist.com) and update the result on this page. **How it works?**: The first person, the *interviewer*, ask questions to the second person. Then, the second person become the *interviewer* and ask questions to the 3td person. You get the picture.
-
-### Core questions
-
-A quick update in **30 seconds**:
-
-1. What are you working on?
-2. What did you learn since our last meeting?
-3. What are your proud of since our last meeting?
-
-In **4 minutes**:
-
-> **What Do You Need Help With**?
-
-### Random Topics
-  
-  - Opportunity for the group.
-  - #
-
-**First meeting questions**:
-  
-- What do you do?
-- Why?
-- Which field(s) are you looking for help and support
-- Why do you want to join a mastermind group?
+---
 
 ### Values
 
