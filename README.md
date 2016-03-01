@@ -1,4 +1,5 @@
-## Meeting #03 The Gladiator's Mastermind - 
+## Meeting #03 The Gladiator's Mastermind
+
 Agenda
 
     Time keeper: Juan
@@ -14,25 +15,22 @@ Team:
 
     A Pascal Andy
     B Jill Murwin
-    C Melissa Murphy
-    D Laura Raynak
-    E Denis Côté
-    F Juan Camou
-    G Luz Gonzalez
-    H Sarah Martin
+    C Laura Raynak
+    D Denis Côté
+    E Juan Camou
+    F Luz Gonzalez
+    G Sarah Martin
 
 Pairing match for today (changing everyweek):
 
-    E Denis Côté
+    G Sarah Martin
+    F Luz Gonzalez
+    D Denis Côté
     A Pascal Andy
-    G Luz Gonzalez
-    D Laura Raynak
-    F Juan Camou
-    H Sarah Martin
-    C Melissa Murphy
+    E Juan Camou
     B Jill Murwin
+    C Laura Raynak
     
-
 To generate a new pairing match, use randomizelist.com and update the result on this page. How it works?: The first person, the interviewer, ask questions to the second person. Then, the second person become the interviewer and ask questions to the 3td person. You get the picture.
 Core questions
 
