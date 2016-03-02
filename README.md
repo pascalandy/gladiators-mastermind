@@ -3,8 +3,8 @@
 Agenda
 
     Time keeper: Juan
-    Host for our next meeting: 
-    Next meeting date: March 1st 8h30PM EST
+    Host for our next meeting: Denis
+    Next meeting date: March 15st 8h30PM EST
     This meeting will last: 60 min
     How much time per person: 5 min
     Phone bridge: 401-283-6344, PIN: 12444 from uberconference.com/andymedia
