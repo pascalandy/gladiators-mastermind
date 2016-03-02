@@ -1,12 +1,14 @@
-### Agenda for Meeting #03 The Gladiator's Mastermind
+### Agenda
 
+    **The Gladiator's Mastermind** 
+    Session: 04
     Time keeper: Juan
     Host for our next meeting: Denis
     Next meeting date: March 15st 8h30PM EST
     This meeting will last: 60 min
     How much time per person: 5 min
-    Phone bridge: 401-283-6344, PIN:12444 from uberconference.com/andymedia
-    Alternative phone bridge: 646-568-7788, PIN:956-624-9881 from zoom.us
+    New phone bridge: 401-283-6344, PIN:12444 from uberconference.com/andymedia
+    *Alt phone bridge: 646-568-7788, PIN:956-624-9881 from zoom.us*
     https://github.com/pascalandy/meeting/blob/master/README.md
 
 ### Team
@@ -29,10 +31,9 @@
     B Jill Murwin
     C Laura Raynak
     
-To generate a new pairing match, use randomizelist.com and update the result on this page. How it works?: The first person, the interviewer, ask questions to the second person. Then, the second person become the interviewer and ask questions to the 3td person. You get the picture.
-Core questions
+To generate a new pairing match, use randomizelist.com and update the result on this page. How it works?: The first person, the interviewer, ask questions to the second person. Then, the second person become the interviewer and ask questions to the 3td person. You get the picture :)
 
-### Interview & sharing
+### Interviews & sharing
 
 A quick update in 30 seconds:
 
@@ -43,8 +44,6 @@ A quick update in 30 seconds:
 In 4 minutes:
 
     What Do You Need Help With?
-
----
 
 ### Values
 
