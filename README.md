@@ -7,7 +7,7 @@ Agenda
     Next meeting date: March 15st 8h30PM EST
     This meeting will last: 60 min
     How much time per person: 5 min
-    Phone bridge: 401-283-6344, PIN: 12444 from uberconference.com/andymedia
+    Phone bridge: 401-283-6344, PIN:12444 from uberconference.com/andymedia
     Alternative phone bridge: 646-568-7788, PIN:956-624-9881 from zoom.us
     https://github.com/pascalandy/meeting/blob/master/README.md
 
