@@ -1,6 +1,4 @@
-## Meeting #03 The Gladiator's Mastermind
-
-Agenda
+### Agenda for Meeting #03 The Gladiator's Mastermind
 
     Time keeper: Juan
     Host for our next meeting: Denis
@@ -11,7 +9,7 @@ Agenda
     Alternative phone bridge: 646-568-7788, PIN:956-624-9881 from zoom.us
     https://github.com/pascalandy/meeting/blob/master/README.md
 
-Team:
+### Team
 
     A Pascal Andy
     B Jill Murwin
@@ -21,7 +19,7 @@ Team:
     F Luz Gonzalez
     G Sarah Martin
 
-Pairing match for today (changing everyweek):
+### Pairing match for today (changing everyweek):
 
     G Sarah Martin
     F Luz Gonzalez
@@ -33,6 +31,8 @@ Pairing match for today (changing everyweek):
     
 To generate a new pairing match, use randomizelist.com and update the result on this page. How it works?: The first person, the interviewer, ask questions to the second person. Then, the second person become the interviewer and ask questions to the 3td person. You get the picture.
 Core questions
+
+### Interview & sharing
 
 A quick update in 30 seconds:
 
