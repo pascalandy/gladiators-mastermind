@@ -23,12 +23,12 @@
 
 ### Pairing match for today (changing everyweek):
 
-    G Sarah Martin
-    F Luz Gonzalez
     D Denis Côté
-    A Pascal Andy
-    E Juan Camou
+    F Luz Gonzalez
     B Jill Murwin
+    G Sarah Martin
+    E Juan Camou
+    A Pascal Andy
     C Laura Raynak
     
 To generate a new pairing match, use randomizelist.com and update the result on this page. How it works?: The first person, the interviewer, ask questions to the second person. Then, the second person become the interviewer and ask questions to the 3td person. You get the picture :)
