@@ -1,10 +1,10 @@
 ### Agenda
 
     **The Gladiator's Mastermind** 
-    Session: 04
+    Session: 05
     Time keeper: Juan
     Host for our next meeting: Denis
-    Next meeting date: March 15st 8h30PM EST
+    Next meeting date: March 29st 8h30PM EST
     This meeting will last: 60 min
     How much time per person: 5 min
     New phone bridge: 401-283-6344, PIN:12444 from uberconference.com/andymedia
@@ -23,13 +23,13 @@
 
 ### Pairing match for today (changing everyweek):
 
-    D Denis Côté
-    F Luz Gonzalez
-    B Jill Murwin
-    G Sarah Martin
     E Juan Camou
+    F Luz Gonzalez
     A Pascal Andy
+    G Sarah Martin
+    B Jill Murwin
     C Laura Raynak
+    D Denis Côté
     
 To generate a new pairing match, use randomizelist.com and update the result on this page. How it works?: The first person, the interviewer, ask questions to the second person. Then, the second person become the interviewer and ask questions to the 3td person. You get the picture :)
 
