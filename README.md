@@ -3,7 +3,7 @@
     **The Gladiator's Mastermind** 
     Session: 05
     Time keeper: Juan
-    Host for our next meeting: Denis
+    Host for our next meeting: Juan
     Next meeting date: March 29st 8h30PM EST
     This meeting will last: 60 min
     How much time per person: 5 min
