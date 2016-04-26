@@ -46,4 +46,4 @@ In 4 minutes:
 - What Do You Need Help With?
 
 ### Links
-- tk
+- [Gladiator MasterMind Constitution](https://github.com/pascalandy/meeting/blob/master/Gladiator-MasterMind-Constitution.md)
