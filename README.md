@@ -1,32 +1,32 @@
 ### Agenda
 
-    **The Gladiator's Mastermind** 
-    Session: 06
-    Time keeper: Juan
-    Host for our next meeting: Pascal
-    Next meeting date: 2016-04-26 8h30PM EST
-    This meeting will last: 50 min
-    How much time per person: 5 min
-    New phone bridge: 401-283-6344 (#12444 uberconference.com/andymedia)
-    https://github.com/pascalandy/meeting/blob/master/README.md
+**The Gladiator's Mastermind** 
+- Session: 07
+- Time keeper: Juan
+- The host will be: Pascal
+- Next meeting date: 2016-04-26 8h30PM EST
+- This meeting will last: 50 min
+- How much time per person: 5 min
+- New phone bridge: 401-283-6344 (#12444 uberconference.com/andymedia)
+- https://github.com/pascalandy/meeting/blob/master/README.md
 
 ### Team
 
-Pascal Andy
-Jill Murwin
-Denis Côté
-Juan Camou
-Luz Gonzalez
-Cheryl Hammond
+- Pascal Andy
+- Jill Murwin
+- Denis Côté
+- Juan Camou
+- Luz Gonzalez
+- Cheryl Hammond
 
 ### Pairing match for today (changing everyweek):
 
-Denis Côté
-Cheryl Hammond
-Juan Camou
-Jill Murwin
-Luz Gonzalez
-Pascal Andy
+- Denis Côté
+- Cheryl Hammond
+- Juan Camou
+- Jill Murwin
+- Luz Gonzalez
+- Pascal Andy
 
 ---
   
