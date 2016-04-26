@@ -29,4 +29,4 @@ To generate a new pairing match, use randomizelist.com and update the result on 
 
 ### Random Stuff
 
-Back phone number:  *Alt phone bridge: 646-568-7788, PIN:956-624-9881 from zoom.us*
+Back phone number:  *Alt phone bridge: 646-568-7788, PIN:956-624-9881 from zoom.us*.
