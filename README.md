@@ -36,14 +36,14 @@ To generate a new pairing match, use randomizelist.com and update the result on 
 
 A quick update in **30 seconds**:
 
-    What are you been working on?
-    What did you learn since our last meeting?
-    What are your proud of since our last meeting?
+- What are you been working on?
+- What did you learn since our last meeting?
+- What are your proud of since our last meeting?
 
 In 4 minutes:
 	
-		What could prevent you to reach your goal?
-    What Do You Need Help With?
+- What could prevent you to reach your goal?
+- What Do You Need Help With?
 
 #### Values
 
