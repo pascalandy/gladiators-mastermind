@@ -31,7 +31,7 @@ A **30 seconds** quick update:
 
 Going deeper in **4 minutes**:
 	
-- What could prevent you to reach your goal?
+- What is one goal you will achieve by our next meeting?
 - What Do You Need Help With?
 
 ### Links
