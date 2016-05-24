@@ -1,10 +1,10 @@
 ### Agenda
 
 **The Gladiator's Mastermind** 
-- Session: 08 (https://github.com/pascalandy/meeting/issues/7)
+- Session: 09 (https://github.com/pascalandy/meeting/issues/7)
 - Time keeper: Juan
 - The host will be: Jill	
-- Next meeting date: 2016-05-10 8h30PM EST
+- Next meeting date: 2016-05-24 8h30PM EST
 - This meeting will last: 50 min
 - How much time per person: 5 min
 - New phone bridge: 401-283-6344 (#12444 uberconference.com/andymedia)
@@ -12,12 +12,11 @@
 
 ### Pairing match for today (changing everyweek):
 
-- Pascal Andy
+- Denis Cote
 - Jill Murwin
+- Juan Camou 
 - Luz Gonzalez
 - Cheryl Hammond
-- Denis Côté
-- Juan Camou
   
 *[Here is the tool](https://github.com/pascalandy/meeting/blob/master/Gladiator-MasterMind-Constitution.md#randomizelistcom) the generate a random list.*
 
@@ -31,7 +30,7 @@ A **30 seconds** quick update:
 
 Going deeper in **4 minutes**:
 	
-- What is one goal you will achieve by our next meeting?
+- How did it went with your goal you wanted to achieve by our next meeting (May 24th)?
 - What Do You Need Help With?
 
 ### Links
