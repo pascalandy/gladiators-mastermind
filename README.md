@@ -1,7 +1,7 @@
 ### Agenda
 
 **The Gladiator's Mastermind** 
-- Session: 09 (https://github.com/pascalandy/meeting/issues/7)
+- Session: 09
 - Time keeper: Juan
 - The host will be: Jill	
 - Next meeting date: 2016-05-24 8h30PM EST
