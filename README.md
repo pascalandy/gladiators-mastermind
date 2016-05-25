@@ -17,7 +17,7 @@
 - Jill Murwin
 - Juan Camou 
 - Luz Gonzalez
-- Cheryl Hammond
+- Pascal Andy
   
 *[Here is the tool](https://github.com/pascalandy/meeting/blob/master/Gladiator-MasterMind-Constitution.md#randomizelistcom) the generate a random list.*
 
