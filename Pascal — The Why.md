@@ -12,7 +12,7 @@ When I ask people **why** they want a website, I hear these kinds of answers:
 - I want make more sales
 - Hell! I want to make money!
 
-Of course money. But here, **money** is the result of what we do, not why we do it. It’s way too limiting.
+Of course money. But here, **money** is the result of what we do, not why we are doing it. It’s way too limiting.
  
 I thought long and hard about this question and trust me, here is the best answer I could come up with.
 
