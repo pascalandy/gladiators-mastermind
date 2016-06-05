@@ -75,19 +75,20 @@ It will be the extension of who we are.
 and I **believe** Freelancers don’t wait to get picked but instead they create their own windows of opportunities.
 
 When I **realized** that we all expect to have everything available on our phone, it became clear to me. This moment of clarity is why I decided to build FirePress for people like you:
-for the artist at heart
-for the creator
-for those who lead
-for the makers
-for those who believe in a cause greater than themselvesù
-for the ones that ship dreams
+- for the artist at heart
+- for the creator
+- for those who lead
+- for the makers
+- for those who believe in a cause greater than themselves
+- for the ones that ship dreams
+
 While some may say they are losing their time, 
 we see men and women, who have picked their battles.
 
 Because the peoples who decide to go against the odds, 
 are the one who can beat them.
 
-Let me **leave you** on this:
+Now, let me **leave you** on this:
 Can we find you and what you have to offer on this phone? 
 If the answer is not a big **Hell yes**
 Let me help you.
