@@ -90,7 +90,8 @@ are the one who can beat them.
 
 Now, let me **leave you** on this:
 Can we find you and what you have to offer on this phone? 
-If the answer is not a big **Hell yes**
+If the answer is not a big **Hell yes** ...
+
 Let me help you.
 
 [END]
