@@ -2,7 +2,7 @@
 
 **The Gladiator's Mastermind** 
 - Session: 11
-- Time keeper: Juan
+- Time keeper: tk
 - The host will be: Pascal	
 - Next meeting date: 2016-06-07 8h30PM EST
 - This meeting will last: 50 min
