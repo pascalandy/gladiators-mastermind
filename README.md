@@ -1,10 +1,10 @@
 ### Agenda
 
 **The Gladiator's Mastermind** 
-- Session: 11
+- Session: 14
 - Time keeper: tk
 - The host will be: Pascal	
-- Next meeting date: 2016-06-07 8h30PM EST
+- Next meeting date: 2016-07-05 8h30PM EST
 - This meeting will last: 50 min
 - How much time per person: 6 min
 - NEW! Let's use zoom again. Uber sound bad since our last 3 meetings. Phone bridge: 646-568-7788, PIN:956-624-9881 https://zoom.us/zoomconference
@@ -14,11 +14,11 @@
 ### Pairing match for today (changing everyweek):
 
 - Luz Gonzalez
-- Denis Cote
 - Pascal Andy
 - Jill Murwin
 - Juan Camou 
-  
+- Denis Cote
+
 *[Here is the tool](https://github.com/pascalandy/meeting/blob/master/Gladiator-MasterMind-Constitution.md#randomizelistcom) the generate a random list.*
 
 ### Questions & Sharing
