@@ -8,7 +8,6 @@
 - This meeting will last: 50 min
 - How much time per person: 6 min
 - Use **Zoom meeting**. Phone bridge: 646-568-7788, PIN:956-624-9881 https://zoom.us/zoomconference
-- <del>Uberconference phone bridge: 401-283-6344 (#12444 uberconference.com/andymedia)</del>
 - https://github.com/pascalandy/meeting/blob/master/README.md
 
 ### Pairing match for today (changing everyweek):
