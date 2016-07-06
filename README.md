@@ -43,4 +43,3 @@ Going deeper in **4 minutes**:
 - Denis Côté
 - Juan Camou
 - Luz Gonzalez
-- Cheryl Hammond
