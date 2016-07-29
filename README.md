@@ -1,10 +1,12 @@
 ### Agenda
 
 **The Gladiator's Mastermind** 
-- Session: 19
+- **Hosted by**: tk
+- **Session**: 19
+- **Date**: 2016-08-02
 - Time keeper: tk
-- The host will be: 2016-08-02	
 - Next meeting date: tk
+
 - This meeting will last: 50 min
 - How much time per person: 6 min
 - Use **Zoom meeting**. Phone bridge: 646-568-7788, PIN:956-624-9881 https://zoom.us/zoomconference
