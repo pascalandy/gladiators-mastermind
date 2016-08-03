@@ -1,11 +1,11 @@
 ### Agenda
 
 **The Gladiator's Mastermind** 
-- **Hosted by**: tk
+- **Hosted by**: Jill
 - **Session**: 19
 - **Date**: 2016-08-02
-- Time keeper: tk
-- Next meeting date: tk
+- Time keeper: Denis
+- Next meeting date: August 16, 2016
 
 - This meeting will last: 50 min
 - How much time per person: 6 min
