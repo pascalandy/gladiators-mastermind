@@ -1,15 +1,17 @@
 ### Agenda
 
 **The Gladiator's Mastermind** 
-- **Hosted by**: Jill
+- **Hosted by**: Juan
 - **Session**: 19
-- **Date**: 2016-08-02
-- Time keeper: Denis
-- Next meeting date: August 16, 2016
+- **Date**: 16-08-30_20h30
+- Time keeper: tk
+- Next meeting date: August 30, 2016
 
 - This meeting will last: 50 min
 - How much time per person: 6 min
-- Use **Zoom meeting**. Phone bridge: 646-568-7788, PIN:956-624-9881 https://zoom.us/zoomconference
+- Phone Bridge:
+ 	- Use Pascal's bridge: 1-855-777-8842 Room 542 4891
+	- Plan B **Zoom meeting**. Phone bridge: 646-568-7788, PIN:956-624-9881 https://zoom.us/zoomconference
 - https://github.com/pascalandy/meeting/blob/master/README.md
 
 ### Pairing match for today (changing everyweek):
