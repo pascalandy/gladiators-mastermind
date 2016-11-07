@@ -9,11 +9,11 @@
 
 - This meeting will last: 50 min
 - How much time per person: 6 min
-- Phone Bridge:
+
+### Phone Bridge:
  	- Use Pascal's bridge: 1-855-777-8842 Room 542 4891
 	- Plan B **Zoom meeting**. Phone bridge: 646-568-7788, PIN:956-624-9881 https://zoom.us/zoomconference
-- https://github.com/pascalandy/meeting/blob/master/README.md
-
+	
 ### Pairing match for today (changing everyweek):
 
 - Luz Gonzalez
