@@ -11,7 +11,7 @@
 - How much time per person: 6 min
 
 ### Phone Bridge:
-- Use Pascal's bridge: 1-855-777-8842 Room 542 4891
+- Pascal's bridge: 1-855-777-8842 Room 542 4891
 - If the bridge above is not working here the Plan B: with Zoom meeting. Phone bridge: 646-568-7788, PIN:956-624-9881
 	
 ### Pairing match for today (changing everyweek):
