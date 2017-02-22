@@ -1,6 +1,7 @@
 ### 2017-02-21
 
 **Denis:**
+
 Little girl:
 « Ask me about… »
     cookies
@@ -8,6 +9,7 @@ Little girl:
 ---
     
 **Jill:**
+
 Hi Denis, Luz and Pascal,
 
 This exercise seems to be bringing me a lot of peace, abundance, fun and energy.  Here you go if you want to give it a try:
@@ -30,4 +32,3 @@ You can write or talk or do recordings of yourself and listen just before you go
 Sending love,
 
 Jill xo xo xo
-=
